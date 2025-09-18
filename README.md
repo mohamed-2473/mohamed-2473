@@ -249,9 +249,8 @@
             <p>Crafting beautiful, functional, and user-centered digital experiences</p>
             <div class="social-links">
                 <a href="https://github.com/mohamed-2473" target="_blank">GitHub</a>
-                <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
-                <a href="https://twitter.com/yourprofile" target="_blank">Twitter</a>
-                <a href="mailto:your.email@example.com">Email</a>
+                <a href="https://linkedin.com/in/mohamed-ali-abdulhameed" target="_blank">LinkedIn</a>
+                <a href="mailto:mh01225672473@gmail.com">Email</a>
             </div>
         </header>
 
